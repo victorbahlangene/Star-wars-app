@@ -11,3 +11,5 @@ pinned: false
 
 # Star-wars-app
 classify star wars character, summarize facts about that character, and make a quiz about the character
+
+# [Link to App](https://huggingface.co/spaces/victorbahlangene/Star-wars-app/tree/main)
